@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+    <line>
+      <![CDATA[<div "featureFile">Feature File: src&#x2F;test&#x2F;resources&#x2F;features&#x2F;Download.feature</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "feature">Feature: Sample Feature File two</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "scenario">Scenario: Java binding download link check</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Given  I am on the Selenium homepage (passed : 15s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "scenarioOutline">Scenario Outline: Title of your scenario outline</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "scenario">Scenario Outline: Title of your scenario outline</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Given  I want to write a step with &quot;&lt;name&gt;&quot; (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">When  I check for the &lt;value&gt; in step (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Then  I verify the &quot;&lt;status&gt;&quot; in step (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "scenario">Scenario Outline: Title of your scenario outline</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Given  I want to write a step with &quot;name1&quot; (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">When  I check for the 5 in step (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Then  I verify the &quot;success&quot; in step (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "scenario">Scenario Outline: Title of your scenario outline</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Given  I want to write a step with &quot;name2&quot; (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">When  I check for the 7 in step (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Then  I verify the &quot;Fail&quot; in step (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "featureFile">Feature File: src&#x2F;test&#x2F;resources&#x2F;features&#x2F;Download_Copy.feature</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "feature">Feature: Sample Feature File One</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "scenario">Scenario: Java binding download link check</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Given  I am on the Selenium homepage (passed : 6s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">When  I click &quot;Download&quot; tab (passed : 2s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Then  I should see &quot;Java&quot; download link on Download page (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">And  I should see &quot;C#&quot; download link on Download page (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">And  I should see &quot;Ruby&quot; download link on Download page (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">And  I should see &quot;Python&quot; download link on Download page (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">And  I should see &quot;Javascript (Node)&quot; download link on Download page (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "scenario">Scenario: Java binding download link check</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Given  I am on the Selenium homepage (passed : 5s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">When  I click &quot;Download&quot; tab (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Then  I should see &quot;Java&quot; download link on Download page (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">And  I should see &quot;C#&quot; download link on Download page (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">And  I should see &quot;Ruby&quot; download link on Download page (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">And  I should see &quot;Python&quot; download link on Download page (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">And  I should see &quot;Javascript (Node)&quot; download link on Download page (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "scenario">Scenario: Java binding download link check</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Given  I am on the Selenium homepage (passed : 8s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">When  I click &quot;Download&quot; tab (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">Then  I should see &quot;Java&quot; download link on Download page (passed : 2s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">And  I should see &quot;C#&quot; download link on Download page (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">And  I should see &quot;Ruby&quot; download link on Download page (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">And  I should see &quot;Python&quot; download link on Download page (passed : 0s)</div>]]>
+    </line>
+    <line>
+      <![CDATA[<div "result">And  I should see &quot;Javascript (Node)&quot; download link on Download page (passed : 0s)</div>]]>
+    </line>
+  </reporter-output>
+  <suite name="Test runner" duration-ms="83132" started-at="2016-10-03T10:59:53Z" finished-at="2016-10-03T11:01:16Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.run_cukes()[pri:0, instance:uk.co.automatictester.jwebfwk.runners.DownloadFeatureRunner@29f10c35]" name="run_cukes" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.run_cukes()[pri:0, instance:uk.co.automatictester.jwebfwk.runners.DownloadFeatureRunner_Copy@2e40b187]" name="run_cukes" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Package with subpackages" duration-ms="81623" started-at="2016-10-03T10:59:53Z" finished-at="2016-10-03T11:01:15Z">
+      <class name="uk.co.automatictester.jwebfwk.runners.DownloadFeatureRunner_Copy">
+        <test-method status="PASS" signature="run_cukes()[pri:0, instance:uk.co.automatictester.jwebfwk.runners.DownloadFeatureRunner_Copy@2e40b187]" name="run_cukes" duration-ms="43784" started-at="2016-10-03T16:30:31Z" description="Runs Cucumber Features" finished-at="2016-10-03T16:31:15Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<div "featureFile">Feature File: src&#x2F;test&#x2F;resources&#x2F;features&#x2F;Download_Copy.feature</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "feature">Feature: Sample Feature File One</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "scenario">Scenario: Java binding download link check</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Given  I am on the Selenium homepage (passed : 6s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">When  I click &quot;Download&quot; tab (passed : 2s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Then  I should see &quot;Java&quot; download link on Download page (passed : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">And  I should see &quot;C#&quot; download link on Download page (passed : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">And  I should see &quot;Ruby&quot; download link on Download page (passed : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">And  I should see &quot;Python&quot; download link on Download page (passed : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">And  I should see &quot;Javascript (Node)&quot; download link on Download page (passed : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "scenario">Scenario: Java binding download link check</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Given  I am on the Selenium homepage (passed : 5s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">When  I click &quot;Download&quot; tab (passed : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Then  I should see &quot;Java&quot; download link on Download page (passed : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">And  I should see &quot;C#&quot; download link on Download page (passed : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">And  I should see &quot;Ruby&quot; download link on Download page (passed : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">And  I should see &quot;Python&quot; download link on Download page (passed : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">And  I should see &quot;Javascript (Node)&quot; download link on Download page (passed : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "scenario">Scenario: Java binding download link check</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Given  I am on the Selenium homepage (passed : 8s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">When  I click &quot;Download&quot; tab (passed : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Then  I should see &quot;Java&quot; download link on Download page (passed : 2s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">And  I should see &quot;C#&quot; download link on Download page (passed : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">And  I should see &quot;Ruby&quot; download link on Download page (passed : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">And  I should see &quot;Python&quot; download link on Download page (passed : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">And  I should see &quot;Javascript (Node)&quot; download link on Download page (passed : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- run_cukes -->
+      </class> <!-- uk.co.automatictester.jwebfwk.runners.DownloadFeatureRunner_Copy -->
+      <class name="uk.co.automatictester.jwebfwk.runners.DownloadFeatureRunner">
+        <test-method status="PASS" signature="run_cukes()[pri:0, instance:uk.co.automatictester.jwebfwk.runners.DownloadFeatureRunner@29f10c35]" name="run_cukes" duration-ms="37821" started-at="2016-10-03T16:29:53Z" description="Runs Cucumber Features" finished-at="2016-10-03T16:30:31Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<div "featureFile">Feature File: src&#x2F;test&#x2F;resources&#x2F;features&#x2F;Download.feature</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "feature">Feature: Sample Feature File two</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "scenario">Scenario: Java binding download link check</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Given  I am on the Selenium homepage (passed : 15s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "scenarioOutline">Scenario Outline: Title of your scenario outline</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "scenario">Scenario Outline: Title of your scenario outline</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Given  I want to write a step with &quot;&lt;name&gt;&quot; (passed : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">When  I check for the &lt;value&gt; in step (passed : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Then  I verify the &quot;&lt;status&gt;&quot; in step (passed : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "scenario">Scenario Outline: Title of your scenario outline</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Given  I want to write a step with &quot;name1&quot; (passed : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">When  I check for the 5 in step (passed : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Then  I verify the &quot;success&quot; in step (passed : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "scenario">Scenario Outline: Title of your scenario outline</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Given  I want to write a step with &quot;name2&quot; (passed : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">When  I check for the 7 in step (passed : 0s)</div>]]>
+            </line>
+            <line>
+              <![CDATA[<div "result">Then  I verify the &quot;Fail&quot; in step (passed : 0s)</div>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- run_cukes -->
+      </class> <!-- uk.co.automatictester.jwebfwk.runners.DownloadFeatureRunner -->
+    </test> <!-- Package with subpackages -->
+    <test name="Reporting" duration-ms="1461" started-at="2016-10-03T11:01:15Z" finished-at="2016-10-03T11:01:16Z">
+      <class name="uk.co.automatictester.jwebfwk.glue.ReportGenerator">
+        <test-method status="PASS" signature="reportCreator()[pri:0, instance:uk.co.automatictester.jwebfwk.glue.ReportGenerator@5cde6b02]" name="reportCreator" duration-ms="1458" started-at="2016-10-03T16:31:15Z" finished-at="2016-10-03T16:31:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportCreator -->
+      </class> <!-- uk.co.automatictester.jwebfwk.glue.ReportGenerator -->
+    </test> <!-- Reporting -->
+  </suite> <!-- Test runner -->
+</testng-results>

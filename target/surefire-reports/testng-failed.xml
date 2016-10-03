@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Test runner]">
+  <test name="Package with subpackages(failed)">
+    <classes>
+      <class name="uk.co.automatictester.jwebfwk.runners.DownloadFeatureRunner">
+        <methods>
+          <include name="run_cukes"/>
+        </methods>
+      </class> <!-- uk.co.automatictester.jwebfwk.runners.DownloadFeatureRunner -->
+    </classes>
+  </test> <!-- Package with subpackages(failed) -->
+</suite> <!-- Failed suite [Test runner] -->

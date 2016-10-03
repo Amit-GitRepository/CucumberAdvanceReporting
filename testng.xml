@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test runner">
+	<test name="Package with subpackages">
+		<packages>
+			<package name="uk.co.automatictester.jwebfwk.runners" />
+		</packages>
+	</test>
+
+	<test name="Reporting">
+		<classes>
+			<class name="uk.co.automatictester.jwebfwk.glue.ReportGenerator">
+				<methods>
+					<include name="reportCreator" />
+				</methods>
+			</class>
+		</classes>
+	</test>
+</suite>

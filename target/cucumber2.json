@@ -1,0 +1,341 @@
+[
+  {
+    "id": "sample-feature-file-two",
+    "description": "In order to use Selenium in my project, I want to download Selenium language bindings",
+    "name": "Sample Feature File two",
+    "keyword": "Feature",
+    "line": 1,
+    "elements": [
+      {
+        "after": [
+          {
+            "result": {
+              "duration": 619193133,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinitions.afterScenario()"
+            }
+          }
+        ],
+        "id": "sample-feature-file-two;java-binding-download-link-check",
+        "before": [
+          {
+            "result": {
+              "duration": 7431417208,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinitions.beforeScenario()"
+            }
+          }
+        ],
+        "description": "",
+        "name": "Java binding download link check",
+        "keyword": "Scenario",
+        "line": 4,
+        "steps": [
+          {
+            "result": {
+              "duration": 15357745250,
+              "status": "passed"
+            },
+            "name": "I am on the Selenium homepage",
+            "keyword": "Given ",
+            "line": 5,
+            "match": {
+              "location": "StepDefinitions.I_am_on_the_Selenium_homepage()"
+            }
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "after": [
+          {
+            "result": {
+              "duration": 474225265,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinitions.afterScenario()"
+            }
+          }
+        ],
+        "id": "sample-feature-file-two;title-of-your-scenario-outline;;2",
+        "before": [
+          {
+            "result": {
+              "duration": 4119867039,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinitions.beforeScenario()"
+            }
+          }
+        ],
+        "description": "",
+        "name": "Title of your scenario outline",
+        "keyword": "Scenario Outline",
+        "line": 27,
+        "steps": [
+          {
+            "result": {
+              "duration": 4418060,
+              "status": "passed"
+            },
+            "name": "I want to write a step with \"name1\"",
+            "keyword": "Given ",
+            "line": 21,
+            "match": {
+              "arguments": [
+                {
+                  "val": "name1",
+                  "offset": 29
+                }
+              ],
+              "location": "StepDefinitions.i_want_to_write_a_step_with_name(String)"
+            },
+            "matchedColumns": [
+              0
+            ]
+          },
+          {
+            "result": {
+              "duration": 1212051,
+              "status": "passed"
+            },
+            "name": "I check for the 5 in step",
+            "keyword": "When ",
+            "line": 22,
+            "match": {
+              "arguments": [
+                {
+                  "val": "5",
+                  "offset": 16
+                }
+              ],
+              "location": "StepDefinitions.i_check_for_the_in_step(int)"
+            },
+            "matchedColumns": [
+              1
+            ]
+          },
+          {
+            "result": {
+              "duration": 165619,
+              "status": "passed"
+            },
+            "name": "I verify the \"success\" in step",
+            "keyword": "Then ",
+            "line": 23,
+            "match": {
+              "arguments": [
+                {
+                  "val": "success",
+                  "offset": 14
+                }
+              ],
+              "location": "StepDefinitions.i_verify_the_success_in_step(String)"
+            },
+            "matchedColumns": [
+              2
+            ]
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "after": [
+          {
+            "result": {
+              "duration": 491024621,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinitions.afterScenario()"
+            }
+          }
+        ],
+        "id": "sample-feature-file-two;title-of-your-scenario-outline;;3",
+        "before": [
+          {
+            "result": {
+              "duration": 4078356407,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinitions.beforeScenario()"
+            }
+          }
+        ],
+        "description": "",
+        "name": "Title of your scenario outline",
+        "keyword": "Scenario Outline",
+        "line": 28,
+        "steps": [
+          {
+            "result": {
+              "duration": 132495,
+              "status": "passed"
+            },
+            "name": "I want to write a step with \"name2\"",
+            "keyword": "Given ",
+            "line": 21,
+            "match": {
+              "arguments": [
+                {
+                  "val": "name2",
+                  "offset": 29
+                }
+              ],
+              "location": "StepDefinitions.i_want_to_write_a_step_with_name(String)"
+            },
+            "matchedColumns": [
+              0
+            ]
+          },
+          {
+            "result": {
+              "duration": 150690,
+              "status": "passed"
+            },
+            "name": "I check for the 7 in step",
+            "keyword": "When ",
+            "line": 22,
+            "match": {
+              "arguments": [
+                {
+                  "val": "7",
+                  "offset": 16
+                }
+              ],
+              "location": "StepDefinitions.i_check_for_the_in_step(int)"
+            },
+            "matchedColumns": [
+              1
+            ]
+          },
+          {
+            "result": {
+              "duration": 167951,
+              "status": "passed"
+            },
+            "name": "I verify the \"Fail\" in step",
+            "keyword": "Then ",
+            "line": 23,
+            "match": {
+              "arguments": [
+                {
+                  "val": "Fail",
+                  "offset": 14
+                }
+              ],
+              "location": "StepDefinitions.i_verify_the_success_in_step(String)"
+            },
+            "matchedColumns": [
+              2
+            ]
+          }
+        ],
+        "type": "scenario"
+      },
+      {
+        "after": [
+          {
+            "result": {
+              "duration": 350629235,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinitions.afterScenario()"
+            }
+          }
+        ],
+        "id": "sample-feature-file-two;title-of-your-scenario-outline;;4",
+        "before": [
+          {
+            "result": {
+              "duration": 4367472446,
+              "status": "passed"
+            },
+            "match": {
+              "location": "StepDefinitions.beforeScenario()"
+            }
+          }
+        ],
+        "description": "",
+        "name": "Title of your scenario outline",
+        "keyword": "Scenario Outline",
+        "line": 29,
+        "steps": [
+          {
+            "result": {
+              "duration": 145091,
+              "status": "passed"
+            },
+            "name": "I want to write a step with \"name3\"",
+            "keyword": "Given ",
+            "line": 21,
+            "match": {
+              "arguments": [
+                {
+                  "val": "name3",
+                  "offset": 29
+                }
+              ],
+              "location": "StepDefinitions.i_want_to_write_a_step_with_name(String)"
+            },
+            "matchedColumns": [
+              0
+            ]
+          },
+          {
+            "result": {
+              "duration": 158621,
+              "status": "passed"
+            },
+            "name": "I check for the 11 in step",
+            "keyword": "When ",
+            "line": 22,
+            "match": {
+              "arguments": [
+                {
+                  "val": "11",
+                  "offset": 16
+                }
+              ],
+              "location": "StepDefinitions.i_check_for_the_in_step(int)"
+            },
+            "matchedColumns": [
+              1
+            ]
+          },
+          {
+            "result": {
+              "duration": 116167,
+              "status": "passed"
+            },
+            "name": "I verify the \"Fail\" in step",
+            "keyword": "Then ",
+            "line": 23,
+            "match": {
+              "arguments": [
+                {
+                  "val": "Fail",
+                  "offset": 14
+                }
+              ],
+              "location": "StepDefinitions.i_verify_the_success_in_step(String)"
+            },
+            "matchedColumns": [
+              2
+            ]
+          }
+        ],
+        "type": "scenario"
+      }
+    ],
+    "uri": "src/test/resources/features/Download.feature"
+  }
+]
